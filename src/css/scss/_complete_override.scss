@@ -1,0 +1,13 @@
+.bg-dark,
+.btn-dark {
+  background-color: rgb(20, 20, 20) !important;
+}
+
+.bg-dark:hover,
+.btn-dark:hover {
+  background-color: rgb(30, 30, 30) !important;
+  color: $sf-blue !important;
+}
+.btn-secondary:hover {
+  color: $sf-blue !important;
+}
